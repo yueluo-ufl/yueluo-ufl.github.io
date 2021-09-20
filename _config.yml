@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yue Luo"
   avatar           : "Yue_profile.png"
-  bio              : "Ph.D. student in the Department of Industrial and Systems Engineering at the University of Florida"
-  location         : "Gainesville, Florida"
-  employer         : "University of Florida"
+  bio              : "a Ph.D. student who is interested in fall prevention for the aging population through innovative interior design interventions"
+  location         :
+  employer         : "University of Florida, Gainesville, FL"
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=wRWMXc0AAAAJ"
   email            : "yueluo@ufl.edu"
