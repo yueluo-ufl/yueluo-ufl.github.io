@@ -1,5 +1,5 @@
 ---
-title: "A database of human gait performance on irregular and uneven surfaces collected by wearable sensors"
+title: "Luo, Y., Coppola, S. M., Dixon, P. C., Li, S., Dennerlein, J. T., & Hu, B. (2020). A database of human gait performance on irregular and uneven surfaces collected by wearable sensors. Scientific data, 7(1), 1-9. "
 collection: publications
 permalink: /publication/2020-07-08-uneven-surfaces-database
 excerpt: ''
@@ -8,7 +8,3 @@ venue: 'Scientific data'
 paperurl: 'https://doi.org/10.1038/s41597-020-0563-y'
 citation: 'Luo, Y., Coppola, S. M., Dixon, P. C., Li, S., Dennerlein, J. T., & Hu, B. (2020). A database of human gait performance on irregular and uneven surfaces collected by wearable sensors. <i> Scientific data, 7 </i> (1), 1-9.'
 ---
-
-[Download paper here](https://doi.org/10.1038/s41597-020-0563-y)
-
-Recommended citation: Luo, Y., Coppola, S. M., Dixon, P. C., Li, S., Dennerlein, J. T., & Hu, B. (2020). A database of human gait performance on irregular and uneven surfaces collected by wearable sensors. <i> Scientific data, 7 </i> (1), 1-9.
