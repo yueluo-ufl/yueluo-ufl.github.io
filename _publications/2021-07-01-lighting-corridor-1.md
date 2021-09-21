@@ -1,7 +1,7 @@
 ---
-title: "Testing of path-based visual cues on patterned carpet to assist older adults' gait in a continuing care retirement community"
+title: "Testing of path-based visual cues on patterned carpet to assist older adults gait in a continuing care retirement community"
 collection: publications
-permalink: /publication/2021-07-01-lightng-corridor-1
+permalink: /publication/2021-07-01-lighting-corridor-1
 excerpt: ''
 date: 2021-07-01
 venue: 'Experimental Gerontology'

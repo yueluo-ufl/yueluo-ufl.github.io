@@ -1,7 +1,7 @@
 ---
 title: "Impact of destination-based visual cues on gait characteristics among adults over 75 years old: A pilot study"
 collection: publications
-permalink: /publication/2021-06-01-lightng-bedroom-1
+permalink: /publication/2021-06-01-lighting-bedroom-1
 excerpt: ''
 date: 2021-06-01
 venue: 'Gait & Posture'
