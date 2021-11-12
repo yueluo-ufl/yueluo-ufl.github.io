@@ -16,4 +16,4 @@ The goal of my research is to prevent falls and fall-induced injuries as well as
 
 For more info
 ------
-More info about me can be found in [LinkedIn](www.linkedin.com/in/yueluo-ufl). 
+More info about me can be found in [LinkedIn](https://www.linkedin.com/in/yueluo-ufl). 
