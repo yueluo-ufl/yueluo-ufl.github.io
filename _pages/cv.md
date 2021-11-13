@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Industrial and Systems Engineering, University of Florida, 2022 (Expected)
+* Ph.D. in Industrial and Systems Engineering, University of Florida, 2022 (Expected)
 * M.S. in Industrial and Operations Engineering, University of Michigan, 2019
 * M.S. in Biomedical Engineering, University of Michigan, 2017
 * B.S. in Biotechnology, Beijing Normal University, Zhuhai, 2015
