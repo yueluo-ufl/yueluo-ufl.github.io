@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Industrial and Systems Engineering, University of Florida, 2022 (expected)
+* Ph.D in Industrial and Systems Engineering, University of Florida, 2022 (Expected)
 * M.S. in Industrial and Operations Engineering, University of Michigan, 2019
 * M.S. in Biomedical Engineering, University of Michigan, 2017
 * B.S. in Biotechnology, Beijing Normal University, Zhuhai, 2015
@@ -79,7 +79,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
