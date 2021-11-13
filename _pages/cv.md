@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://yueluo-ufl.github.io/files/cv.pdf)
+[Download CV here](http://yueluo-ufl.github.io/files/Luo,Yue - CV_Nov2021.pdf)
 
 Education
 ======
