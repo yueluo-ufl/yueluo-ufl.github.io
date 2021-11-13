@@ -11,30 +11,56 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Industrial and Systems Engineering, University of Florida, 2022 (expected)
+* M.S. in Industrial and Operations Engineering, University of Michigan, 2019
+* M.S. in Biomedical Engineering, University of Michigan, 2017
+* B.S. in Biotechnology, Beijing Normal University, Zhuhai, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2019 - Present: Graduate Research Assistant
+  * Human-Systems Engineering Laboratory, University of Florida
+  * Faculty Advisor: Boyi Hu, Ph.D.
+  * Research: 2 VR-related projects, 2 healthcare-related projects, 1 human-robot interaction project, and 1 injury prevention project
+  * Mentorship: four undergraduate students and one master's student
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* April 2017 - May 2019: Graduate Student Research Assistant
+  * Inclusive Mobility Research Laboratory, University of Michigan
+  * Faculty Advisor: Clive D'Souza, Ph.D.
+  * Research: 2 occupational safety projects and 2 wearable technology projects
+  * Mentorship: two undergraduate students
+
+* September 2016 - April 2017: Graduate Student Research Assistant
+  * Yali Dou’s Laboratory, University of Michigan
+  * Faculty Advisor: Yali Dou, Ph.D.
+
+* September 2014 - October 2014: Research Intern
+  * Jiangxi Institute of Materia Medica
+  * Faculty Advisor: Junming Zhang
+
+* July 2014 - August 2014: Undergraduate Student Research Assistant
+  * Enyin Lai’s Laboratory, Zhejiang University
+  * Faculty Advisor: Enyin Lai, Ph.D.
+
+Honors and Awards
+======
+- UFL Certificates of Outstanding Achievement (2021)
+- HFES ATG Arnold Small Award (2021)
+- HFES Council of Technical Groups Travel Award for First Year Graduate Students (2020)
+- UM Rackham Graduate School Travel Grant Award (2018)
+- Second Prize Scholarship of College of Engineering Technology (10%) (2014)
+- Second Prize Scholarship of College of Engineering Technology (10%) (2013)
+- Internal Auditor Qualification Certificate (2013)
+- Grand Prize Professional Scholarship of Beijing Normal University, Zhuhai (5%) (2012)
+- Excellent Leader of Liyun Youth Volunteers Association, College of Engineering branch (2011)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language: Python, R
+* Operating System: Windows, Mac, Ubuntu
+* Software: MATLAB, SPSS, Minitab, R studio, LabVIEW, Gazebo, 3DSSPP
+* Equipment: Motion capture system (Xsens, Biostamp, APDM, Vicon, Qualisys), Electromyography system (Delsys), Force plates (ATMI), Robot system (Fetch Freight base)
+* Language: Chinese (Mandarin), English
 
 Publications
 ======
