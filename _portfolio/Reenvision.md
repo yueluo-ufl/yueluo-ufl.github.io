@@ -1,6 +1,6 @@
 ---
 title: "Re-envision"
-excerpt: "repurpose spaces and fixtures for disadvantaged population<br/><img src='YLuo_reenvision.png'>"
+excerpt: "repurpose spaces and fixtures for disadvantaged population<br/><img src='Yue_profile.png'>"
 collection: portfolio
 ---
 
