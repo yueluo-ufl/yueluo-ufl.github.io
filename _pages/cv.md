@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](http://yueluo-ufl.github.io/files/cv.pdf)
+
 Education
 ======
 * Ph.D in Industrial and Systems Engineering, University of Florida, 2022 (Expected)
