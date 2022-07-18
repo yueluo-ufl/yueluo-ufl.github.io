@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yue Luo"
 title_separator          : "-"
 name                     : &name "Yue Luo"
-description              : &description "Yue Luo is a Ph.D. student in the Department of Industrial and Systems Engineering at the University of Florida."
+description              : &description "Yue Luo is a Ph.D. candidate in the Department of Industrial and Systems Engineering at the University of Florida."
 url                      : https://yueluo-ufl.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yueluo-ufl/yueluo-ufl.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yue Luo"
   avatar           : "Yue_profile.png"
-  bio              : "Research interests: Ergonomics & human factors, injury prevention & rehabilitation, aging health, digital human modeling, wearable technology"
+  bio              : "Research interests: Ergonomics & human factors, injury prevention & rehabilitation, aging health, human technology interaction, wearable technology, digital human modeling"
   location         :
   employer         : "University of Florida"
   pubmed           : 
